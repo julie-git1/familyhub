@@ -1,4 +1,4 @@
 Buy vegetables on Saturday 
 Use couponerm -rf .git
 
-hi 
+initial familygub setup 
